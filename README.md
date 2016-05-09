@@ -22,7 +22,7 @@ Whitelisted address is a smart contract. It recieves funds from reward tokens, c
 
 Address is multisig and private keys held by DAO curators and an outside agreed organization (possibly Donachain Curators)
 
-The reward tokens for charity are distibuted annually. DAO members would be able to submit a proposal to the smart contract, e.g. to vote for 5 causes to donate to in a 30/25/20/15/10 split, from a list made up of entries put forward by DAO members. On a specific date (e.g. 31st Dec), funds are automatically transmitted to the causes based on the outcome of the vote (this could be either direct to charities, or to corresponding smart contracts if the cause is not an organisation - e.g. helping refugees directly). Effectively, the list of entries for the vote would be smart contracts themselves. Vetting by curators would ensure that only legitimate philanthropic endeavors make it onto the ballot.
+The reward tokens for charity are distibuted annually. DAO members would be able to submit a proposal to the smart contract, e.g. to vote for 4 causes to donate to 25% each, from a list made up of curated entries pulled from justgiving.com. On a specific date every year (e.g. 31st Dec), funds starts being automatically transmitted to the causes based on the outcome of the vote (intially direct to charities, or later by a seperate proposal to a corresponding smart contracts if the cause is not an organisation - e.g. helping refugees directly). Effectively, the list of entries for the vote would be smart contracts themselves. Vetting by the curators would ensure that only legitimate philanthropic endeavors make it onto the ballot.
 
 Track donation from blockchain explorer and charity receipt. 
 
@@ -30,7 +30,7 @@ An opt-out clause to give DAO members the option to re-allocate their donations 
 
 TBD
 
-Whitelist address has extrabalance account for sporadic donations. This can be topped up manually by people wanting to donate more (over and above the 1% default): e.g. a slackbot for donations, to allow individual members to donate easily and seamlessly.
+Whitelist address has extrabalance account for sporadic donations. This can be topped up manually by people wanting to donate more (over and above the 1% default): For example a slackbot for donations, to allow individual members to donate easily and seamlessly.
 
 
 
@@ -42,7 +42,7 @@ Whitelist address has extrabalance account for sporadic donations. This can be t
 
 * Excluding religious and political charities.
 
-* Direct support (not via charities), for example refugee camps, or something analagous to GiveDirectly (unconditional cash transfers to the poorest families in the world). Would require widespread use of the Ethereum Computer, and an associated smart phone app (people receiving cash from GiveDirectly currently get M-Pesa by SMS, how long before even the poorest have smartphones? Or would it be feasible to link directly to M-Pesa?).
+* Direct support (not via charities), for example refugee camps, or something analagous to GiveDirectly (unconditional cash transfers to the poorest families in the world). Would require widespread use of a low cost dedicated Ethereum Computer such as Consensus Hackethon Runner Up, Community Relief, built: https://docs.google.com/presentation/d/1XsiPjlgFsuV1kUEvydlvEuJzSv-m49ilPI4mb0bbDBE/edit?usp=sharing  
 
 * Reducing Catastrophic/Existential Risk (risk of civilisational collapse, or human extinction) - see http://www.globalchallenges.org/reports/Global-Catastrophic-Risk-Annual-Report-2016.pdf
 
