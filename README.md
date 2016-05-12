@@ -14,7 +14,7 @@ DAO’s token holders would vote if, how much, how often and who to donate to.
 
 ## Donacha.in PROPOSAL to The DAO:
 
-The DAO is ushering in a revolutionary restructuring of the economy, one based on decrentralisation and transparency. Many are hopeful that it'll make the world a more equitable, better place. True to this end, having a system where a small portion of investor profits are automatically and directly distributed to some of the world's best causes (as voted on by members of The DAO) seems fitting. The PR value of this initiative could even make negative cost.
+The DAO is ushering in a revolutionary restructuring of the economy, one based on decrentralisation and transparency. Many are hopeful that it'll make the world a more equitable, better place. True to this end, having a system where a small portion of investor profits are automatically and directly distributed to some of the world's best causes (as voted on by members of The DAO) seems fitting. The PR value of this initiative could even make it negative cost.
 
 Adding a multisig address to whitelist - smart contract to accept portion of the reward tokens (e.g. 1% of profit).
 
