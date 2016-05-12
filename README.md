@@ -46,6 +46,8 @@ Whitelist address has extrabalance account for sporadic donations. This can be t
 
 * Reducing Catastrophic/Existential Risk (risk of civilisational collapse, or human extinction) - see http://www.globalchallenges.org/reports/Global-Catastrophic-Risk-Annual-Report-2016.pdf
 
+* Helping animals in a highly cost-effective manner (cents per year of suffering averted) - http://www.animalcharityevaluators.org/
+
 
 
 ## RESOURCES
