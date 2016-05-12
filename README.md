@@ -26,7 +26,7 @@ The reward tokens for charity are distibuted annually. DAO members would be able
 
 Track donation from blockchain explorer and charity receipt. 
 
-An opt-out clause to give DAO members the option to re-allocate their donations either back to themselves, or somewhere else. Would require a simple nominal transaction (i.e. gas only) to be made manually (but default is that 1% of profit is donated). This is analagous to being able to take ETH out of the DAO - i.e. it minimises downside of proposal (but wouldn't effect membership of The DAO).
+An opt-out clause to give DAO members the option to re-allocate their donations either back to themselves, or somewhere else. Would require a simple nominal transaction (i.e. gas only) to be made manually (but default is that 1% of profit is donated). This is analagous to being able to take ETH out of the DAO - i.e. it minimises downside of proposal (but wouldn't effect membership of The DAO). Could also have a more general version of this whereby there is an option to manually adjust the percentage - from 0% (opt-out), to 10% or more (Giving What We Can level).
 
 TBD
 
