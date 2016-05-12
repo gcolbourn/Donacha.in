@@ -14,7 +14,7 @@ DAO’s token holders would vote if, how much, how often and who to donate to.
 
 ## Donacha.in PROPOSAL to The DAO:
 
-The DAO is ushering in a revolutionary restructuring of the economy, one based on decrentralisation and transparency. Many are hopeful that it'll make the world a more equitable, better place. True to this end, having a system where a small portion of investor profits are automatically and directly distributed to some of the world's best causes (as voted on by members of The DAO) seems fitting.
+The DAO is ushering in a revolutionary restructuring of the economy, one based on decrentralisation and transparency. Many are hopeful that it'll make the world a more equitable, better place. True to this end, having a system where a small portion of investor profits are automatically and directly distributed to some of the world's best causes (as voted on by members of The DAO) seems fitting. The PR value of this initiative could even make negative cost.
 
 Adding a multisig address to whitelist - smart contract to accept portion of the reward tokens (e.g. 1% of profit).
 
@@ -26,7 +26,7 @@ The reward tokens for charity are distibuted annually. DAO members would be able
 
 Track donation from blockchain explorer and charity receipt. 
 
-An opt-out clause to give DAO members the option to re-allocate their donations either back to themselves, or somewhere else. Would require a simple nominal transaction (i.e. gas only) to be made manually (but default is that 1% of profit is donated). This is analagous to being able to take ETH out of the DAO - i.e. it minimises downside of proposal (but wouldn't effect membership of The DAO).
+An opt-out clause to give DAO members the option to re-allocate their donations either back to themselves, or somewhere else. Would require a simple nominal transaction (i.e. gas only) to be made manually (but default is that 1% of profit is donated). This is analagous to being able to take ETH out of the DAO - i.e. it minimises downside of proposal (but wouldn't effect membership of The DAO). Could also have a more general version of this whereby there is an option to manually adjust the percentage - from 0% (opt-out), to 10% or more (Giving What We Can level).
 
 TBD
 
@@ -45,6 +45,8 @@ Whitelist address has extrabalance account for sporadic donations. This can be t
 * Direct support (not via charities), for example refugee camps, or something analagous to GiveDirectly (unconditional cash transfers to the poorest families in the world). Would require widespread use of a low cost dedicated Ethereum Computer such as Consensus Hackethon Runner Up, Community Relief, built: https://docs.google.com/presentation/d/1XsiPjlgFsuV1kUEvydlvEuJzSv-m49ilPI4mb0bbDBE/edit?usp=sharing  
 
 * Reducing Catastrophic/Existential Risk (risk of civilisational collapse, or human extinction) - see http://www.globalchallenges.org/reports/Global-Catastrophic-Risk-Annual-Report-2016.pdf
+
+* Helping animals in a highly cost-effective manner (cents per year of suffering averted) - http://www.animalcharityevaluators.org/
 
 
 
